@@ -29,7 +29,7 @@ val spoofClientPatch = spoofClientPatch(redirectUri = "http://rubenmayayo.com") 
 
         buildUserAgentFingerprint.method.addInstructions(
             0,
-            "const-string p$platformParameter, \"$platformName\"",
+            "const-string p$platformParameter, \"lilycunt-android\"",
         )
 
         // endregion
